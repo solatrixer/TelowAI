@@ -1,0 +1,22 @@
+.navigation {
+  background: #fff;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+  min-height: 5%;
+}
+
+.logo {
+  font-size: 18px !important;
+}
+
+.user-menu {
+  background: none !important;
+  align-items: center;
+  border-radius: 0;
+  &:hover {
+    background-color: #fff !important;
+  }
+  &:active {
+    background-color: #fff !important;
+  }
+}
