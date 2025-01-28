@@ -1,0 +1,1 @@
+Telow AI is service that intergrate LLM with GA API and Shopify API
